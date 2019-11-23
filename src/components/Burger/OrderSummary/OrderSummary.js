@@ -7,7 +7,7 @@ class OrderSummary extends Component {
     // use keys and map to transform into an array
     
     componentDidUpdate() {
-        console.log('[OrderSummary] DidUpdate');
+        // console.log('[OrderSummary] DidUpdate');
     }
     
     render () {
